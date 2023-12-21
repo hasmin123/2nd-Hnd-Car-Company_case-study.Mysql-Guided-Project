@@ -1,4 +1,4 @@
-Analysing the following given information about Second hand Car company CAR_DEKHO using mysql. 
+ANALYSING THE FOLLOWING  GIVEN INFORMATION ABOUT SECOND HAND CAR COMPANY CAR_DEKHO USING MYSQL AND MS EXCEL THROUGH PIVOT TABLE . 
 
 1.Total cars: To get a count of Total Records.
 
